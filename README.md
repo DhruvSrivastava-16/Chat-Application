@@ -1,4 +1,5 @@
-# Welcome to MS Teams Clone!
+# Chat Application
+
 
 ### [Trial Website](https://dhruv-chat-application.netlify.app)
 
